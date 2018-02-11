@@ -7,10 +7,19 @@ using CrestDataLayer.Models;
 
 namespace CrestServiceRepository_UnitTests
 {
+    class CommunityEventModel
+    {
+        double ID {get;set;}
+        string Title {get;set;}
+        string Description{get;set;}
+        
+    }
+    
+    
     [TestClass]
     public class SharePointRepositoryUnitTests
     {
-        string testUrl = "http://testing.crest-management.com/communities/BayColonyParksideCA";
+        string testUrl = "{Test URL Here}";
         [TestMethod]
         public void TestGetAllItems()
         {
