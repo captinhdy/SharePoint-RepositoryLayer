@@ -1,0 +1,16 @@
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\CrestServiceRepositoryLayer.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\CrestServiceRepositoryLayer.pdb
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\obj\Debug\CrestServiceRepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\obj\Debug\CrestServiceRepositoryLayer.dll
+C:\Users\sp_admin\Documents\Visual Studio 2015\Projects\CrestManagement\CrestServiceLayer\CrestServiceLayer\CrestServiceRepositoryLayer\obj\Debug\CrestServiceRepositoryLayer.pdb
